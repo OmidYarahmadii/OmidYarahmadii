@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Scalable educational platforms and community building**
 
-- 👨‍💻 All of my projects are available at [https://frontpack.ir](https://frontpack.ir)
+- 👨‍💻 All of my projects are available at [https://OmidYarahmadi.ir](OmidYarahmadi.ir)
 
 - 💬 Ask me about **Frontend frameworks, modern JavaScript, Tailwind CSS, design systems, content creation**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omid-yarahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omid-yarahmadi" height="30" width="40" /></a>
-<a href="https://instagram.com/frontpack.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontpack.ir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/frontpack.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frontpack.ir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/OmidYarahmadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omid-yarahmadi" height="30" width="40" /></a>
+<a href="https://instagram.com/OmidYarahmadi.ir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frontpack.ir" height="30" width="40" /></a>
+<a href="https://www.youtube.com/OmidYarahmadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="frontpack.ir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
